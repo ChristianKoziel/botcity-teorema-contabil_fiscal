@@ -18057,7 +18057,7 @@ class Bot(DesktopBot) :
             not_found("cont_retorn_opc_23_imposto")
         self.click()
         self.wait(1000)
-
+        #
         
         ###############################################################################################
         ######################### RELATORIOS -> EMISSÕES -> VALIDA-PR/SINTEGRA ########################
